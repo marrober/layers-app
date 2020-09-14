@@ -1,6 +1,6 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: _layer1
+  name: layer1
 spec:
   replicas: 4
